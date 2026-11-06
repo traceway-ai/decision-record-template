@@ -21,4 +21,4 @@ Typing **Approved** does not establish approval. This is an editable manual reco
 - [Decision register workbook](https://traceway.com/downloads/traceway-decision-register.xlsx), with blank decision and work-review tables and a fictional example
 - [Checking approval evidence across versions](https://traceway.com/guides/decision-audit-evidence#approval-history-worked-example)
 
-Prepared by [Traceway](https://traceway.com/), decision governance software linking decisions, rationale and approvals to strategy and delivery.
+Prepared by [Traceway](https://traceway.com/). Traceway is a platform for recording and approving business decisions.
